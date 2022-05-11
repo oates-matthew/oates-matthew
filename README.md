@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oates-matthew
-- 👀 I’m interested in full stack software engineer.
+- 👀 I’m interested in full stack software engineering.
 - 🌱 I’m currently learning react.
 - 📫 How to reach me by my linkedin https://www.linkedin.com/in/matthewoat-es
 
